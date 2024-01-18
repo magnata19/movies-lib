@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #111;
+  background: linear-gradient(to bottom, #001, #000);
   color: #fff;
 }
 
@@ -19,3 +19,4 @@ a {
 a:hover {
   color: #b8930c;
 }
+
